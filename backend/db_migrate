@@ -1,0 +1,9 @@
+https://www.cnblogs.com/tjp40922/p/10686333.html
+#初始化
+python manage.py  init
+
+#迁移
+python manage.py  migrate
+
+#生成报表
+python manage.py upgrade

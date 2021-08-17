@@ -1,0 +1,9 @@
+/backend/migrations/
+/backend/db_migrate/
+/backend/test.py/
+/backend/pubkey/
+/backend/application/storage/images/
+/backend/application/common/pubkey
+/backend/.idea/
+*/__pycache__
+*/__pycache__/
